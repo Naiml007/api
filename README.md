@@ -1,5 +1,6 @@
 # amvstrm's API
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f09e781c-410d-4ba7-8732-b83a00fbcccf/deploy-status)](https://app.netlify.com/sites/amvapi/deploys)
 amvstrm's API that powered [amvstrm](https://amvstr.me)
 
 _You can now use our official API url here : https://api.amvstr.me_
