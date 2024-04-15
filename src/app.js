@@ -40,6 +40,8 @@ Sentry.init({
     ...Sentry.autoDiscoverNodePerformanceMonitoringIntegrations(),
   ],
   tracesSampleRate: 0,
+  sampleRate: 0.45,
+  debug: process.env.NODE_ENV === "production" || !process.env.NODE_ENV || "" ? true : false,
 });
 
 
